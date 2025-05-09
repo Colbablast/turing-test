@@ -1,1 +1,3 @@
 # turing-test
+
+This is a Python based project that uses a Chat-GPT api to allow two players to play the classic Turing test. The "imitation game" is a game where you have three roles, a player, a machine, and an interrogator. The object of the game is for the interrogator to determine which is the player and which is the machine. The object of the game for the man to try and cause the interrogator to make the wrong identification to make the wrong identification, while the object of the game for the machine is to help the interrogator.
